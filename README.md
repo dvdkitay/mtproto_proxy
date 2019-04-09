@@ -62,7 +62,7 @@ How to start OS-install - quick
 
 ```bash
 sudo apt install erlang-nox erlang-dev build-essential
-git clone https://github.com/seriyps/mtproto_proxy.git
+git clone https://github.com/dvdkitay/mtproto_proxy.git
 cd mtproto_proxy/
 cp config/vm.args.example config/prod-vm.args
 cp config/sys.config.example config/prod-sys.config
