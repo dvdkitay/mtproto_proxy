@@ -1,8 +1,6 @@
 Erlang mtproto proxy
 ====================
 
-This part of code was extracted from [@socksy_bot](https://t.me/socksy_bot).
-
 Features
 --------
 
